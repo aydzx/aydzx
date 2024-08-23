@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @aydzx
+- 👀 I’m interested in ML and Web Applications
+- 🌱 I’m currently learning Java development, Python ML learning
